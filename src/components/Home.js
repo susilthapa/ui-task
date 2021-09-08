@@ -27,7 +27,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundPosition: "center",
     backgroundSize: "cover",
     [theme.breakpoints.down("sm")]: {
-      padding: "10px",
+      padding: "8px",
     },
   },
   rootSmall: {
@@ -113,7 +113,6 @@ const useStyles = makeStyles((theme) => ({
     display: "flex",
     justifyContent: "center",
     padding: "10px",
-    width: " 100%",
     height: "fit-content",
     backgroundImage: `url(${bg})`,
     backgroundPosition: "center",
