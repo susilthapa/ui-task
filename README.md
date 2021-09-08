@@ -1,6 +1,6 @@
 ## React App
 
-* *git clone*
+* *git clone https://github.com/susilthapa/ui-task.git*
 
 * *cd ui-task*
 
